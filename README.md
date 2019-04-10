@@ -3,3 +3,7 @@ lakukan pork dari repository berikut : https://github.com/Dendi69/uaspy.git kemu
 ke local repository:
 
 
+lakukan konsfigursi virtual envirotment pada project
+
+
+install 
